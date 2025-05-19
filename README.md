@@ -51,4 +51,4 @@
 [Udemy]: https://www.udemy.com/
 [front end web developer]: https://confirm.udacity.com/7QM9HD6
 
-© 2021
+© 2025
