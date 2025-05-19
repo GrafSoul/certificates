@@ -36,8 +36,19 @@
 
 <img src="./images/GeekBrains_Fundamentals_of_database.png" alt="Certificate Udacity - Fundamentals of database" width="800" />
 
+## [Udemy]
+
+### 1.) Certificate - <a href="./pdf/UC-54411286-bfe7-4d4f-9955-3873397369c3.pdf" target="_blank">React Three Fiber</a>
+
+### 1.) Certificate - <a href="./pdf/UC-b3dfb22f-57ca-401a-980b-c12b3b45a16a.pdf" target="_blank">Blender 2023. Complete Beginner's Course in 3D Modeling.</a>
+
+### 1.) Certificate - <a href="./pdf/UC-e7217db3-e5f5-4153-bfe5-922cdf8d2ed5.pdf" target="_blank">Testing JavaScript and React Applications.</a>
+
+### 1.) Certificate - <a href="./pdf/UC-ec445a9c-d5f7-488b-af2a-4fda1afadbe7.pdf" target="_blank"> Learn to create WebXR, VR and AR experiences using Three.js .</a>
+
 [udacity]: https://www.udacity.com/
 [geekbrains]: https://geekbrains.ru/
+[Udemy]: https://www.udemy.com/
 [front end web developer]: https://confirm.udacity.com/7QM9HD6
 
 © 2021
